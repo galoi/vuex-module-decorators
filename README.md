@@ -377,7 +377,7 @@ export function createStore() {
     modules: {
       MyStoreModule,
     },
-  }
+  })
 }
 
 // components/Random.tsx
